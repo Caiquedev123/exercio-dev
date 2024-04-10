@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(191, 222, 249);
+    padding: 200px;
+}
+
+.container{
+    background-color: white;
+    width: 330px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.container img{
+    width: 300px;
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.container .informacoes{
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
